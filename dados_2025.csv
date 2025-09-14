@@ -79,8 +79,8 @@ periodo,horario,dia_semana,mes,data,tipicidade,atend_menos_30s,atend_mais_30s,ab
 30,14:30,Thu,Jan,1/2/2025,Tipico,354,1,0,0,0,831
 31,15:00,Thu,Jan,1/2/2025,Tipico,357,1,0,0,0,885
 32,15:30,Thu,Jan,1/2/2025,Tipico,351,2,1,0,0,854
-33,16:00,Thu,Jan,1/2/2025,Tipico,428,0,1,0,0,1,052
-34,16:30,Thu,Jan,1/2/2025,Tipico,417,0,1,0,0,1,102
+33,16:00,Thu,Jan,1/2/2025,Tipico,428,0,1,0,0,1052
+34,16:30,Thu,Jan,1/2/2025,Tipico,417,0,1,0,0,1102
 35,17:00,Thu,Jan,1/2/2025,Tipico,385,0,0,0,0,982
 36,17:30,Thu,Jan,1/2/2025,Tipico,392,0,0,0,0,956
 37,18:00,Thu,Jan,1/2/2025,Tipico,398,0,1,0,0,1005
